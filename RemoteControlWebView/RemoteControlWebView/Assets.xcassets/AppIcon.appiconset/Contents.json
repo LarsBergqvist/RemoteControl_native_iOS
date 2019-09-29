@@ -41,6 +41,12 @@
       "idiom" : "iphone",
       "size" : "60x60",
       "scale" : "3x"
+    },
+    {
+      "size" : "1024x1024",
+      "idiom" : "ios-marketing",
+      "filename" : "lightbulb_large.png",
+      "scale" : "1x"
     }
   ],
   "info" : {
